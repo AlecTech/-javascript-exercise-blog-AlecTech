@@ -1,0 +1,25 @@
+/* Basic Browser Default Reset */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box; /* Changes our box model a bit... padding / border will now be included in width, instead of in addition to. */
+  }
+  
+  #listOfPosts {
+    color: rgb(7, 7, 7);
+    background-color: saddlebrown;
+  }
+
+  body {
+    color: rgb(223, 223, 198);
+  }
+  
+  .form {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+  }
+/*   
+  html {
+    background-image: img src="img/car.jpg" alt="pic of a blockbusters" title="Collections" width=1080;
+  } */
+  
